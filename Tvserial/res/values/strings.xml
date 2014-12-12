@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="action_contact">Contact</string>
+
+     <string name="app_name">Top TV Serials </string>
+    <string name="title_movie_detail">Series Detail</string>
+    
+    <!-- menu.xml -->
+    <string name="menu_action_about_title">About</string>
+    
+    <!-- MovieListFragment -->
+    <string name="movie_list_is_empty">Loading Serials Top 50&#8230;</string>
+    
+    <!-- fragment_movie_detail.xml -->
+    <string name="movie_details_image_content_description">Image</string>
+
+    <!-- MovieListArrayAdapter -->
+    <string name="movie_rank">#</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_copyright">Copyright</string>
+    
+    <!-- DialogHelper -->
+    <string name="no_network_connection_title">Problem</string>
+    <string name="no_network_connection_message">No network connection found.</string>
+    <string name="do_open_network_settings">Network settings</string>
+    <string name="do_not_open_network_settings">Cancel</string>
+    
+    <!-- list_item_layout.xml -->
+    <string name="movie_small_image_content_description">Image</string>
+    
+    <!-- about_dialog.xml -->
+    <string name="about_dialog_title">About me</string>
+    <string name="about_dialog_name">Kishor Datta Gupta</string>
+    <string name="about_dialog_profession">Android developer</string>
+    <string name="about_dialog_email">kdgupta87@gmail.com</string>
+    <string name="about_dialog_close_button">OK</string>
+    <string name="about_dialog_image_content_description">Image</string>
+    
+    
+</resources>
